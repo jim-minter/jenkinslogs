@@ -1,0 +1,15 @@
+{
+	"ImportPath": "github.com/jim-minter/jenkinslogs",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v79",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/handlers",
+			"Comment": "v1.2-4-g13d7309",
+			"Rev": "13d73096a474cac93275c679c7b8a2dc17ddba82"
+		}
+	]
+}
